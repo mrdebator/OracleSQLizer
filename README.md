@@ -1,9 +1,9 @@
 # OracleSQLizer
 Python script to automate insertion of records from a flat file (.csv)
 
-Syntax: ```python3 OracleSQLizer.py <filename.csv> <table_name>```
+Syntax: ```python3 SQLizer.py <filename.csv> <table_name>```
 
-To Store into file: ```python3 OracleSQLizer.py file_name.csv table_name > filename.sql```
+To Store into file: ```python3 SQLizer.py file_name.csv table_name > filename.sql```
 
 ## Legal
 Open Source Initiative - MIT License
